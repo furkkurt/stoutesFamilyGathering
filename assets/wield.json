@@ -1,0 +1,230 @@
+{
+	"textures": [
+		{
+			"image": "wield.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1800,
+				"h": 1352
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "wield1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 600,
+						"h": 338
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 600,
+						"h": 338
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 600,
+						"h": 338
+					}
+				},
+				{
+					"filename": "wield2.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 600,
+						"h": 338
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 600,
+						"h": 338
+					},
+					"frame": {
+						"x": 600,
+						"y": 0,
+						"w": 600,
+						"h": 338
+					}
+				},
+				{
+					"filename": "wield3.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 600,
+						"h": 338
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 600,
+						"h": 338
+					},
+					"frame": {
+						"x": 1200,
+						"y": 0,
+						"w": 600,
+						"h": 338
+					}
+				},
+				{
+					"filename": "wield4.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 600,
+						"h": 338
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 600,
+						"h": 338
+					},
+					"frame": {
+						"x": 0,
+						"y": 338,
+						"w": 600,
+						"h": 338
+					}
+				},
+				{
+					"filename": "wield5.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 600,
+						"h": 338
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 600,
+						"h": 338
+					},
+					"frame": {
+						"x": 600,
+						"y": 338,
+						"w": 600,
+						"h": 338
+					}
+				},
+				{
+					"filename": "wield6.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 600,
+						"h": 338
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 600,
+						"h": 338
+					},
+					"frame": {
+						"x": 1200,
+						"y": 338,
+						"w": 600,
+						"h": 338
+					}
+				},
+				{
+					"filename": "wield7.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 600,
+						"h": 338
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 600,
+						"h": 338
+					},
+					"frame": {
+						"x": 0,
+						"y": 676,
+						"w": 600,
+						"h": 338
+					}
+				},
+				{
+					"filename": "wield8.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 600,
+						"h": 338
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 600,
+						"h": 338
+					},
+					"frame": {
+						"x": 600,
+						"y": 676,
+						"w": 600,
+						"h": 338
+					}
+				},
+				{
+					"filename": "wield9.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 600,
+						"h": 338
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 600,
+						"h": 338
+					},
+					"frame": {
+						"x": 1200,
+						"y": 676,
+						"w": 600,
+						"h": 338
+					}
+				},
+				{
+					"filename": "wield10.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 600,
+						"h": 338
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 600,
+						"h": 338
+					},
+					"frame": {
+						"x": 0,
+						"y": 1014,
+						"w": 600,
+						"h": 338
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:cbf2e599c7316a2f78350f0af611a1d2:3ae509f71cbe1f971f01f1f4ef8d8a27:abe409c083528e4fc2c39c0ce4107faa$"
+	}
+}

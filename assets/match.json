@@ -1,0 +1,80 @@
+{ "frames": {
+   "1": {
+    "frame": { "x": 0, "y": 0, "w": 54, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 54, "h": 70 },
+    "sourceSize": { "w": 54, "h": 70 },
+    "duration": 100
+   },
+   "2": {
+    "frame": { "x": 54, "y": 0, "w": 54, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 54, "h": 70 },
+    "sourceSize": { "w": 54, "h": 70 },
+    "duration": 100
+   },
+   "3": {
+    "frame": { "x": 108, "y": 0, "w": 54, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 54, "h": 70 },
+    "sourceSize": { "w": 54, "h": 70 },
+    "duration": 100
+   },
+   "4": {
+    "frame": { "x": 162, "y": 0, "w": 54, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 54, "h": 70 },
+    "sourceSize": { "w": 54, "h": 70 },
+    "duration": 100
+   },
+   "5": {
+    "frame": { "x": 216, "y": 0, "w": 54, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 54, "h": 70 },
+    "sourceSize": { "w": 54, "h": 70 },
+    "duration": 100
+   },
+   "6": {
+    "frame": { "x": 270, "y": 0, "w": 54, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 54, "h": 70 },
+    "sourceSize": { "w": 54, "h": 70 },
+    "duration": 100
+   },
+   "7": {
+    "frame": { "x": 324, "y": 0, "w": 54, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 54, "h": 70 },
+    "sourceSize": { "w": 54, "h": 70 },
+    "duration": 100
+   },
+   "8": {
+    "frame": { "x": 378, "y": 0, "w": 54, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 54, "h": 70 },
+    "sourceSize": { "w": 54, "h": 70 },
+    "duration": 100
+   }
+ },
+ "meta": {
+  "app": "https://github.com/LibreSprite/LibreSprite/",
+  "version": "1.0",
+  "image": "/home/furkan/Documents/projects/murdermystery/assets/match.png",
+  "format": "RGBA8888",
+  "size": { "w": 432, "h": 70 },
+  "scale": "1",
+  "frameTags": [
+  ],
+  "layers": [
+   { "name": "Layer 1", "opacity": 255, "blendMode": "normal" }
+  ]
+ }
+}

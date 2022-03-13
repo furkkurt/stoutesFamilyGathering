@@ -1,0 +1,40 @@
+{ "frames": {
+   "1": {
+    "frame": { "x": 0, "y": 0, "w": 40, "h": 313 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 313 },
+    "sourceSize": { "w": 40, "h": 313 },
+    "duration": 100
+   },
+   "2": {
+    "frame": { "x": 40, "y": 0, "w": 40, "h": 313 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 313 },
+    "sourceSize": { "w": 40, "h": 313 },
+    "duration": 100
+   },
+   "3": {
+    "frame": { "x": 80, "y": 0, "w": 40, "h": 313 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 313 },
+    "sourceSize": { "w": 40, "h": 313 },
+    "duration": 100
+   }
+ },
+ "meta": {
+  "app": "https://github.com/LibreSprite/LibreSprite/",
+  "version": "1.0",
+  "image": "/home/furkan/Documents/projects/murdermystery/assets/pour.png",
+  "format": "RGBA8888",
+  "size": { "w": 120, "h": 313 },
+  "scale": "1",
+  "frameTags": [
+  ],
+  "layers": [
+   { "name": "Layer 1", "opacity": 255, "blendMode": "normal" }
+  ]
+ }
+}
