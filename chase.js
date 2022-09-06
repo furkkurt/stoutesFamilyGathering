@@ -116,8 +116,8 @@ class chase extends Phaser.Scene{
         this.car.y += 32;    
       }
     });
-  }
   */
+  }
   update(){
     if ((this.keyUp.isDown || this.keyUp2.isDown) && (this.upDown == false && this.car.y > 300)){
       this.upDown = true;
