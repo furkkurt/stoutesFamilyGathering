@@ -89,7 +89,7 @@ class shooter extends Phaser.Scene{
     this.keyLeft2 = this.input.keyboard.addKey("A");
     this.keyRight = this.input.keyboard.addKey("right");
     this.keyRight2 = this.input.keyboard.addKey("D");
-    
+ /*   
     this.up = this.physics.add.sprite(1,0).setOrigin(0).setInteractive();
     this.up.scaleX = 24.96;
     this.up.scaleY = 3;
@@ -155,7 +155,7 @@ class shooter extends Phaser.Scene{
     this.right.on("pointerdown", () => {this.rightEvent.paused = false});
     this.right.on("pointerup", () => {this.rightEvent.paused = true});
     this.right.on("pointerout", () => {this.rightEvent.paused = true});
-
+    */
     this.time.addEvent({
       delay: 5000,
       callback:() =>{

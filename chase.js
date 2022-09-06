@@ -96,7 +96,7 @@ class chase extends Phaser.Scene{
     this.keyDown = this.input.keyboard.addKey("down");
     this.keyDown2 = this.input.keyboard.addKey("S");
     this.upDown = this.downDown = false;
-
+/*
     this.up = this.physics.add.sprite(1,0).setOrigin(0).setInteractive();
     this.up.scaleX = 24.96;
     this.up.scaleY = 3;
@@ -117,7 +117,7 @@ class chase extends Phaser.Scene{
       }
     });
   }
-
+  */
   update(){
     if ((this.keyUp.isDown || this.keyUp2.isDown) && (this.upDown == false && this.car.y > 300)){
       this.upDown = true;
